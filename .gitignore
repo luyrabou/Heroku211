@@ -1,0 +1,4 @@
+# Lista negra
+
+#Omitimos los .tmp
+*.tmp
